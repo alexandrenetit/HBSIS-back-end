@@ -13,8 +13,8 @@
 - .NET Framework 1.1
 - Ter instalado o Microsoft Sql Server - "(localdb)\MSSQLLocalDB"
 
-### Migrations ou rodar script SQL para criação do banco
-Existe um arquivo no path: ..\HBSIS-back-end\sql\ chamado # CreateDatabase.sql # onde é possível criar o banco de dados.
+### Rodar script SQL para criação do banco ou criar via Migrations do EF.
+Existe um arquivo no path: ..\HBSIS-back-end\sql\ chamado "CreateDatabase.sql" onde é possível criar o banco de dados.
 
 ### Rodar o back-end em self-host
 
@@ -34,3 +34,5 @@ Hosting environment: Production
 Content root path: ..\HBSIS-back-end\src\HBSIS.Services.Api
 Now listening on: http://localhost:5000
 Application started. Press Ctrl+C to shut down.
+
+#### Após estar rodando o projeto de back-end vá para os processos do front-end.
