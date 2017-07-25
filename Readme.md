@@ -8,6 +8,15 @@
 - SQL Server;
 - Swagger - documentação e testes das Web APIs
 
+### METODOLOGIAS
+- DDD - versão de entidades anêmicas;
+- Arquitetura Hexagonal;
+- Princípios do S.O.L.I.D;
+- Clean Code;
+- Domain Model Pattern;
+- Ioc;
+- Unit of Work.
+
 ### PRÉ-REQUISITOS
 - Visual Studio 2017
 - .NET Framework 1.1
