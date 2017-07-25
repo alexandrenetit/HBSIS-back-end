@@ -1,18 +1,22 @@
-### PROVA PRÁTICA ###
+## PROVA PRÁTICA 
 
-# TECNOLOGIAS EMPREGADAS NO BACK-END:
-- C#;
--.NET 4.6.1;
+### TECNOLOGIAS EMPREGADAS NO BACK-END:
+- Visual C#;
+-.NET Framework 4.6.1;
 - ASP.NET Web API Core;
 - EntityFramework Core (CodeFirst);
 - SQL Server;
 - Swagger - documentação e testes das Web APIs
 
-# PRÉ-REQUISITOS
+### PRÉ-REQUISITOS
 - Visual Studio 2017
 - .NET Framework 1.1
+- Ter instalado o Microsoft Sql Server - "(localdb)\MSSQLLocalDB"
 
-# Rodar o back-end em self-host
+### Migrations ou rodar script SQL para criação do banco
+Existe um arquivo no path: ..\HBSIS-back-end\sql\ chamado # CreateDatabase.sql # onde é possível criar o banco de dados.
+
+### Rodar o back-end em self-host
 
 Após clonar o projeto na máquina, os seguintes passos devem ser seguidos:
 
