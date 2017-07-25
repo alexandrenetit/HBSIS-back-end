@@ -1,34 +1,32 @@
 ### PROVA PRÁTICA ###
 
-REQUISITOS FUNCIONAIS
-- Eu, como usuário, gostaria de: 
-	 Inserir um Cliente (código, nome, CPF/CNPJ e telefone);
-	 Alterar um Cliente;
-	 Excluir um Cliente;
-	 Listar todos os Clientes;
-	
-REQUISITOS TÉCNICOS
-- Desenvolver em SPA;
-- Utilizar DDD;
-
-TECNOLOGIAS
+# TECNOLOGIAS EMPREGADAS NO BACK-END:
 - C#;
--.NET 4.6.1 ou superior;
-- HTML5/CSS3;
-- Javascript ou Typescript;
-- EntityFramework (CodeFirst);
+-.NET 4.6.1;
+- ASP.NET Web API Core;
+- EntityFramework Core (CodeFirst);
 - SQL Server;
-* Livre pra usar outras tecnologias e frameworks, porém as acima são obrigatórias.
-* Poderá usar qualquer framework Javascript: AngularJS, Angular2, ReactJS, etc;
-* Evite utilizar JQuery;
+- Swagger - documentação e testes das Web APIs
 
-DESAFIOS
-- Seria ótimo se escrevesse testes unitários (backend e/ou frontend);
-- Utilizar conceitos de Microserviços e/ou CQRS será um diferencial;
-- Aplicar Design Pattern corretamente e comentá-los contará pontos extras;
+# PRÉ-REQUISITOS
+- Visual Studio 2017
+- .NET Framework 1.1
 
-AVISO
- Tudo que for feito contará pontos sendo a maior pontuação para o software funcionando;
- O projeto deverá ser disponibilizado no GitHub;
- O projeto deverá conter um "readme" com as intruções necessárias para implementação. Ex.: Scripts, Usuário, Senha, etc;
- Não tenha pressa! Iremos avaliar a qualidade do seu código. Faça seu melhor!
+# Rodar o back-end em self-host
+
+Após clonar o projeto na máquina, os seguintes passos devem ser seguidos:
+
+1 - Entrar no diretótio raiz do projeto via Prompt de comando "CMD-DOS" (..\HBSIS-back-end\src\HBSIS.Services.Api) e digitar o seguinte comando:
+
+# dotnet restore
+
+2 - Após o término do restore digite o seguinte comando:
+
+# dotnet run
+
+A mensagem após a execução do comenado assima deverá ter como resultado o seguinte output no Prompt: 
+
+Hosting environment: Production
+Content root path: ..\HBSIS-back-end\src\HBSIS.Services.Api
+Now listening on: http://localhost:5000
+Application started. Press Ctrl+C to shut down.
