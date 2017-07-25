@@ -2,10 +2,10 @@
 
 REQUISITOS FUNCIONAIS
 - Eu, como usuário, gostaria de: 
-	>> Inserir um Cliente (código, nome, CPF/CNPJ e telefone);
-	>> Alterar um Cliente;
-	>> Excluir um Cliente;
-	>> Listar todos os Clientes;
+	 Inserir um Cliente (código, nome, CPF/CNPJ e telefone);
+	 Alterar um Cliente;
+	 Excluir um Cliente;
+	 Listar todos os Clientes;
 	
 REQUISITOS TÉCNICOS
 - Desenvolver em SPA;
@@ -28,7 +28,7 @@ DESAFIOS
 - Aplicar Design Pattern corretamente e comentá-los contará pontos extras;
 
 AVISO
-# Tudo que for feito contará pontos sendo a maior pontuação para o software funcionando;
-# O projeto deverá ser disponibilizado no GitHub;
-# O projeto deverá conter um "readme" com as intruções necessárias para implementação. Ex.: Scripts, Usuário, Senha, etc;
-# Não tenha pressa! Iremos avaliar a qualidade do seu código. Faça seu melhor!
+ Tudo que for feito contará pontos sendo a maior pontuação para o software funcionando;
+ O projeto deverá ser disponibilizado no GitHub;
+ O projeto deverá conter um "readme" com as intruções necessárias para implementação. Ex.: Scripts, Usuário, Senha, etc;
+ Não tenha pressa! Iremos avaliar a qualidade do seu código. Faça seu melhor!
