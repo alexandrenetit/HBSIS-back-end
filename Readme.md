@@ -46,4 +46,7 @@ A mensagem após a execução do comando acima o seguinte output no Prompt dever
 ###### Application started. Press Ctrl+C to shut down.
 ]
 
+## Swagger - documentação e testes das Web APIs
+Para acessar o Swager basta digitar no browser a URL: http://localhost:5000/swagger
+
 #### Após estar rodando o projeto de back-end vá para os processos do front-end.
