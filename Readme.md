@@ -30,9 +30,11 @@ Após clonar o projeto na máquina, os seguintes passos devem ser seguidos:
 
 A mensagem após a execução do comando acima o seguinte output no Prompt deverá aparecer: 
 
+[
 Hosting environment: Production
 Content root path: ..\HBSIS-back-end\src\HBSIS.Services.Api
 Now listening on: http://localhost:5000
 Application started. Press Ctrl+C to shut down.
+]
 
 #### Após estar rodando o projeto de back-end vá para os processos do front-end.
