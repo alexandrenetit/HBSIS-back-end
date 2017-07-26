@@ -50,3 +50,5 @@ A mensagem após a execução do comando acima o seguinte output no Prompt dever
 Para acessar o Swager basta digitar no browser a URL: http://localhost:5000/swagger
 
 #### Após estar rodando o projeto de back-end vá para os processos do front-end.
+
+### Em caso de dúvidas mandar e-mail para: alexandre.netit@gmail.com
