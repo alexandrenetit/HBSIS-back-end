@@ -2,7 +2,7 @@
 
 ### TECNOLOGIAS EMPREGADAS NO BACK-END:
 - Visual C#;
--.NET Framework 4.6.1;
+- .NET Framework 4.6.1;
 - ASP.NET Web API Core;
 - EntityFramework Core (CodeFirst);
 - SQL Server;
