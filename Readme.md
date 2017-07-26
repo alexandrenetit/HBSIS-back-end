@@ -19,7 +19,7 @@
 
 ### PRÉ-REQUISITOS
 - Visual Studio 2017
-- .NET Framework 1.1
+- .NET Framework Core 1.1
 - Ter instalado o Microsoft Sql Server - "(localdb)\MSSQLLocalDB"
 
 ### Rodar script SQL para criação do banco ou criar via Migrations do EF.
